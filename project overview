@@ -1,0 +1,9 @@
+Project Overview
+
+This project explores the design, implementation, and analytical use of a relational database system within an e-commerce business context, as part of the Fundamentals of Data Analytics programme. The study demonstrates how structured data modeling and SQL-based analytics can be used to transform raw transactional data into actionable business insights.
+
+The project begins with the conceptual, logical, and physical design of an e-commerce database, developed using an Entity Relationship Diagram (ERD). Core business entities such as customers, products, orders, payments, shipments, inventory, and reviews are modeled, with appropriate primary and foreign key constraints to ensure data integrity and normalization.
+
+Using SQL, the project addresses real-world analytical questions, including product pricing analysis, stock availability, customer purchasing behavior, and sales performance. Advanced SQL techniques—such as joins, aggregations, subqueries, CASE expressions, window functions, and query optimization using indexes and Common Table Expressions (CTEs)—are applied to extract insights and improve query performance.
+
+Overall, the project highlights how relational database systems and advanced SQL analytics support efficient data management, enhance decision-making, and enable business intelligence in modern e-commerce environments.
